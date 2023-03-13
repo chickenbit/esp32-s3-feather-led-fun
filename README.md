@@ -13,4 +13,3 @@ Provide a button controlled LED strip.
 * Wiring diagram basics https://learn.adafruit.com/USB-foot-switch-circuit-python/circuit-diagram
 * [Board Pinout](https://github.com/adafruit/Adafruit-Feather-ESP32-S3-PCB/blob/main/Adafruit%20Feather%20ESP32-S3%20Pinout.pdf)
 
-https://www.python.org/downloads/release/python-344/
